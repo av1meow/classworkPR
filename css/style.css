@@ -25,6 +25,8 @@ body {
 .img {
   text-align: center;
   background-color: #4d004d;
+  font-size: 60px;
+  font-family: 'MedievalSharp', cursive;
 }
 
 /*Story Page*/

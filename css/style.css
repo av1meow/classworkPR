@@ -3,6 +3,13 @@ body {
   background-color: #5d0919;
 }
 
+/*nav bar*/
+#navbar {
+  color: teal;
+  font-size: larger;
+  font-family: 'Creepster', cursive;
+}
+
 .name {
   color:#000000;
   font-size: 55px;

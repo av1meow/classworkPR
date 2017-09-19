@@ -8,6 +8,7 @@ body {
   color: teal;
   font-size: larger;
   font-family: 'Creepster', cursive;
+  text-decoration: none;
 }
 
 .name {
@@ -51,6 +52,19 @@ span.highlight {
   font-size: 20px;
 }
 
-.b{
+.b {
+  font-family: 'MedievalSharp', cursive;
+}
+
+/*story2*/
+.stalker {
+  font-size: 44px;
+  color: #000066;
+  font-family: 'Creepster', cursive;
+}
+
+.story2 {
+  font-size: 25px;
+  color: #ffd700;
   font-family: 'MedievalSharp', cursive;
 }

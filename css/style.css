@@ -8,7 +8,14 @@ body {
   color: teal;
   font-size: larger;
   font-family: 'Creepster', cursive;
-  text-decoration: none;
+  /*text-decoration: none;*/
+}
+
+/*Footer*/
+.text-center {
+  font-family: 'Akronim', cursive;
+  text-align: center;
+  color:#000000;
 }
 
 .name {
